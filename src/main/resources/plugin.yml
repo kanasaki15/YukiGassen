@@ -1,0 +1,5 @@
+name: YukiGassen
+version: @version@
+main: xyz.n7mn.dev.yukigassen.YukiGassen
+authors: [ 7mi_chan ]
+description: 雪合戦
