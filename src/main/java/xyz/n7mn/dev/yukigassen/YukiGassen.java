@@ -7,7 +7,7 @@ public final class YukiGassen extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        saveDefaultConfig();
     }
 
     @Override
